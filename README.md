@@ -8,6 +8,7 @@
 - [SRNoC: A Statically-Scheduled Circuit-Switched Superconducting Race Logic NoC](https://ieeexplore.ieee.org/abstract/document/9460541) (**IPDPS '21**)
 - [An Area Efficient Superconducting Unary CNN Accelerator](https://ieeexplore.ieee.org/abstract/document/10129299) (**ISQED '23**)
 - [A case for superconducting accelerators](https://dl.acm.org/doi/abs/10.1145/3310273.3321561?casa_token=bUQyUEHRnh8AAAAA:aBKCTUwZfusoqA1Cvxlj6po9xc9YpwOeUnyeDRt5xA_AQ_hfdwEQGfQL47v8bhlNodnaPK36B3yg) (**CF '19**)
+- [A stochastic-computing based deep learning framework using adiabatic quantum-flux-parametron superconducting technology](https://dl.acm.org/doi/10.1145/3307650.3322270) (**ISCA '19**)
 - []() (** '**)
 
 ## Device
