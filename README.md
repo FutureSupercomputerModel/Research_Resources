@@ -16,4 +16,9 @@
 - [A 48GHz 5.6mW Gate-Level-Pipelined Multiplier Using Single-Flux Quantum Logic](https://ieeexplore.ieee.org/document/8662351) (**ISSCC '19**)
 - [Superconducting Shuttle-Flux Shift Register for Race Logic and Its Applications](https://ieeexplore.ieee.org/document/9913788) (**TCSI '22**)
 
+## Modeling and Optimization
+- [Learning to Optimize Halide with Tree Search and Random Programs](https://dl.acm.org/doi/10.1145/3306346.3322967) (**TG '19**)
+- [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166) (**NeurIPS '18**)
+- [A Learned Performance Model for Tensor Processing Units](https://arxiv.org/abs/2008.01040) (**MLSys '21**)
+
 Pull requests are welcome!
